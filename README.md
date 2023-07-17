@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jaolmos
 - 👀 I’m interested in Web development
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python, Django
 - 💞️ I'm looking to collaborate on a django project
 
 
