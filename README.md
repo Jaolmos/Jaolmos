@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jaolmos
 - 👀 I’m interested in Web development
-- 🌱 Technologies: Python, Django, .Net, Asp.net
+- 🌱 Technologies: Python, Django.
 
 
 
