@@ -1,7 +1,7 @@
 # ¡Hola! 👋 Soy Jose O.M.
 
 ## 👨‍💻 Sobre mí
-Desarrollador Backend apasionado por la tecnología.
+Desarrollador de software apasionado por la tecnología.
 
 ## 🛠️ Stack Tecnológico
 - **Python**
