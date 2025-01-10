@@ -6,10 +6,9 @@ Desarrollador de software apasionado por la tecnología.
 ## 🛠️ Stack Tecnológico
 - **Python**
 - **Django**
-- **Django REST Framework**
 - **Git**
 - **MySQL**
-- **PostgreSQL**
+
 
 ## 📊 GitHub Stats
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Jaolmos&show_icons=true&theme=dark&locale=es)
