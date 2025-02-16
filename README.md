@@ -6,8 +6,7 @@ Desarrollador de software apasionado por la tecnología.
 ## 🛠️ Stack Tecnológico
 - **Python**
 - **Django**
-- **Git**
-- **MySQL**
+
 
 
 ## 📊 GitHub Stats
