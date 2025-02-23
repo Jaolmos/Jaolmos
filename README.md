@@ -1,4 +1,4 @@
-# ¡Hola! 👋 Soy Jose O.M.
+# ¡Hola! 👋 Soy Jose Antonio Olmos.
 
 ## 👨‍💻 Sobre mí
 Desarrollador de software apasionado por la tecnología.
