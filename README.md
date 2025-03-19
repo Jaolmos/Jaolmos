@@ -1,7 +1,9 @@
 # Hello! 👋 I'm Jose Antonio Olmos
 
 ## 👨‍💻 About Me
-I'm a software developer who values software craftsmanship and adheres to SOLID principles to create maintainable and scalable applications.
+
+Software developer focused on clean code and delivering quality solutions.
+
 
 ## 🛠️ Tech Stack
 - **Languages & Frameworks**:
