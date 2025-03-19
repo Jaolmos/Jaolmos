@@ -1,7 +1,7 @@
 # Hello! 👋 I'm Jose Antonio Olmos
 
 ## 👨‍💻 About Me
-I'm a software developer passionate about technology, currently working with Python, Django, React, JavaScript, MySQL, Git, GitHub, Celery, FastAPI, and Postman.
+I'm a software developer who values software craftsmanship and adheres to SOLID principles to create maintainable and scalable applications.
 
 ## 🛠️ Tech Stack
 - **Languages & Frameworks**:
@@ -26,3 +26,4 @@ I'm a software developer passionate about technology, currently working with Pyt
 - 🌍 Location: Spain
 - 💼 Open to collaborations and interesting projects
 - ✉️ Email: [jose.a.olmosmartinez@gmail.com](mailto:jose.a.olmosmartinez@gmail.com)
+- 🌐 LinkedIn: [Jose Antonio Olmos](https://www.linkedin.com/in/jose-antonio-olmos-m/)
