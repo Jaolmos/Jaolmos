@@ -2,7 +2,7 @@
 
 ## 👨‍💻 About Me
 
-Software developer focused on clean code and delivering quality solutions.
+Software developer focused on clean code and delivering quality solutions
 
 
 ## 🛠️ Tech Stack
