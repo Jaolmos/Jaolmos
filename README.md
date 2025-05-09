@@ -25,6 +25,6 @@ Software developer focused on clean code and delivering quality solutions
 
 ## 📫 Contact
 - 🌍 Location: Spain
-- 💼 Open to collaborations and interesting projects
+- 💼 Open to collaborations and interesting projects.
 - ✉️ Email: [jose.a.olmosmartinez@gmail.com](mailto:jose.a.olmosmartinez@gmail.com)
 - 🌐 LinkedIn: [Jose Antonio Olmos](https://www.linkedin.com/in/jose-antonio-olmos-m/)
