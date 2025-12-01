@@ -17,11 +17,15 @@ Software developer focused on clean code and delivering quality solutions
 
 
 
-
-
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jaolmos&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jaolmos&layout=compact&theme=dark)
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jaolmos&theme=github_dark" width="400"/> <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Jaolmos&theme=github_dark" width="400"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jaolmos&theme=github_dark" width="400"/>
+
+</div>
 
 ## 📫 Contact
 - 🌍 Location: Spain
